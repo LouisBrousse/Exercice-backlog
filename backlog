@@ -1,0 +1,27 @@
+Backlog
+User Stories
+Je veux pouvoir afficher les détails d'un aliment.  3
+
+Afficher la liste des aliments 5
+
+Je veux pouvoir ajouter un aliment à la base en saisissant son nom et sa valeur énergétique. 5
+
+Je veux pouvoir ajouter un plat à la base en saisissant son nom et ses composants. 8
+
+Je veux pouvoir chercher des aliments dans la base en utilisant des mots-clés.  3
+
+Je veux pouvoir modifier les détails d'un aliment. 5
+
+Je veux pouvoir modifier les détails d'un plat. 8
+
+Je veux pouvoir supprimer un aliment. 1
+
+Je veux pouvoir supprimer un plat. 1
+
+Je veux pouvoir ajouter un composant à un aliment en le recherchant dans la base.  3
+
+Je veux pouvoir ajouter un composant à un plat en le recherchant  de la base alimentaire,
+ permettant à l'administrateur de gérer les aliments de manière simple et efficace.  8
+
+Je veux pouvoir me connecter à l'application en saisissant mon identifiant et mot de passe 
+pour accéder à l'administration de la base alimentaire.  40
